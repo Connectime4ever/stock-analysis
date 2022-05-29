@@ -64,4 +64,6 @@
 * It is recommended to be extremely cautious. A more in-depth analysis of this industry should be conducted.
 
 ![2017_Refactored_Code_Performance_First_Run](https://github.com/Connectime4ever/stock-analysis/blob/main/Resources/2017%20Refactored%20Code%20Performance%20First%20Run.png)
-![2018_Refactored_Code_Performance_First_Run](https://(github.com/Connectime4ever/stock-analysis/blob/main/Resources/2018%20Refactored%20Code%20Performance%20First%20Run.png)
+![2018_Refactored_Code_Performance_First_Run](https://github.com/Connectime4ever/stock-analysis/blob/main/Resources/2018%20Refactored%20Code%20Performance%20First%20Run.png)
+
+
