@@ -60,11 +60,17 @@
 **Outputs** 
 - Last but not least, the indicators calculated by the original and the refactored code, together with the conditional formatting used, the user could have an accurate and very straightforward view of the performance of the stocks in 2017 and 2018. 
 
-        2017 was a good year for most of the stocks in their category while most of them plummetted in 2018
+        * 2017 was a good year for most of the stocks in their category. However, most of them plummetted in 
+        
+        2018.
 
-        ENPH and RUN are the only stocks which show positive returns in both years. However, ENPH recorded a deceleration of the return while RUN registered a dramatic increase from 5.55% to 83.95%.
+        * ENPH and RUN are the only stocks which show positive returns rates in both years. However, ENPH 
+        
+        recorded a deceleration of the return while RUN registered a dramatic increase from 5.55% to 83.95%.
 
-        It is recommended to be extremely cautious. A more in-depth analysis of this industry should be conducted.
+        * It is recommended to be extremely cautious. A more in-depth analysis of this industry should be 
+        
+        conducted.
 
 ![2017_Refactored_Code_Performance_First_Run](https://github.com/Connectime4ever/stock-analysis/blob/main/Resources/2017%20Refactored%20Code%20Performance%20First%20Run.png)
-![2018_Refactored_Code_Performance_First_Run]https://(github.com/Connectime4ever/stock-analysis/blob/main/Resources/2018%20Refactored%20Code%20Performance%20First%20Run.png)
+![2018_Refactored_Code_Performance_First_Run](https://(github.com/Connectime4ever/stock-analysis/blob/main/Resources/2018%20Refactored%20Code%20Performance%20First%20Run.png)
